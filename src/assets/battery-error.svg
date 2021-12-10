@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 16">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #f44336;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+      .b {
+        fill: #f44336;
+      }
+    </style>
+  </defs>
+  <line
+    class="a"
+    x1="41.25"
+    y1="16.25"
+    x2="57.75"
+    y2="-0.25"
+  />
+  <line
+    class="a"
+    x1="57.75"
+    y1="16.25"
+    x2="41.25"
+    y2="-0.25"
+  />
+  <polygon
+    class="b"
+    points="12.111 0 12.111 4.444 0 4.444 0 11.556 12.111 11.556 12.111 16 34 16 34 0 12.111 0"
+  />
+  <rect
+    class="b"
+    x="66"
+    width="30"
+    height="16"
+  />
+</svg>

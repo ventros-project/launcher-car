@@ -1,0 +1,43 @@
+*
+  box-sizing: border-box
+
+html, body, div#root, main
+  width: 100vw
+  height: 100vh
+  margin: 0
+  padding: 0
+  overflow: hidden
+  background-color: whitesmoke
+  touch-action: pan-x pan-y
+
+#appwindow
+  width: 100vw
+  height: calc(100vh - 88px)
+  margin-top: 104px
+  display: flex
+  flex-direction: row
+  justify-content: stretch
+  align-items: stretch
+  border: 0
+
+#appwindow iframe
+  border: 0
+
+#appwindow.vertical
+  flex-direction: column
+
+::-webkit-scrollbar
+  width: 10px
+  height: 10px
+
+::-webkit-scrollbar-track
+  background: lightgray
+  border-radius: 8px
+
+::-webkit-scrollbar-thumb
+  background: #fb8c00
+  border-radius: 8px
+
+::-webkit-scrollbar-thumb:hover
+  background: #c25e00
+  cursor: pointer

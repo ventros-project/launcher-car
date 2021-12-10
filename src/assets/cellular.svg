@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 16">
+  <defs>
+    <style>
+      .a {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <path
+    class="a"
+    d="M0,8.47059,88.32,0S96,.94118,96,8.47059,88.32,16,88.32,16Z"
+  />
+</svg>

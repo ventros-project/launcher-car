@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 86 86">
+  <defs>
+    <style>
+      .a {
+        fill: none;
+        stroke: #000;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 4px;
+      }
+    </style>
+  </defs>
+  <circle cx="43" cy="43" r="10"/>
+  <path
+    class="a"
+    d="M36,26.41223a18.007,18.007,0,0,0,0,33.17554"
+  />
+  <path
+    class="a"
+    d="M50,59.58777a18.007,18.007,0,0,0,0-33.17554"
+  />
+  <path
+    class="a"
+    d="M32.11111,17.1968a28.0109,28.0109,0,0,0,0,51.6064"
+  />
+  <path
+    class="a"
+    d="M53.88889,68.8032a28.0109,28.0109,0,0,0,0-51.6064"
+  />
+  <path
+    class="a"
+    d="M28.61111,8.90292a37.0144,37.0144,0,0,0,0,68.19416"
+  />
+  <path
+    class="a"
+    d="M57.38889,77.09708a37.0144,37.0144,0,0,0,0-68.19416"
+  />
+</svg>
